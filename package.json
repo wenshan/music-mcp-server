@@ -2,15 +2,15 @@
   "name": "music-mcp-server",
   "private": true,
   "description": "Hello Egg.js",
-  "homepage": "https://github.com/YOUR_USERNAME/YOUR_REPO#readme",
+  "homepage": "https://github.com/wenshan/music-mcp-server",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/issues"
+    "url": "https://github.com/wenshan/music-mcp-server/issues"
   },
   "license": "MIT",
   "author": "hou_ve@hotmail.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/YOUR_REPO.git"
+    "url": "git+https://github.com/wenshan/music-mcp-server.git"
   },
   "type": "module",
   "scripts": {
