@@ -1,0 +1,46 @@
+{
+  "production": {
+        "dialect": "mysql",
+        "database": "musicMcpServer",
+        "host": "192.168.3.93",
+        "port": 3306,
+        "username": "root",
+        "password": "Hwszhou2416$",
+        "timezone": "+08:00",
+        "dialectOptions": {
+        "dateStrings": true,
+        "typeCast": true 
+        },
+        "operatorsAliases": false,
+        "define": {
+        "freezeTableName": true,
+        "timestamps": true,
+        "updatedAt": true,
+        "createdAt": true,
+        "underscored": false
+        },
+        "logging": true
+    },
+ "development": {
+        "dialect": "mysql",
+        "database": "musicMcpServer",
+        "host": "192.168.3.93",
+        "port": 3306,
+        "username": "root",
+        "password": "Hwszhou2416$",
+        "timezone": "+08:00",
+        "dialectOptions": {
+        "dateStrings": true,
+        "typeCast": true 
+        },
+        "operatorsAliases": false,
+        "define": {
+        "freezeTableName": true,
+        "timestamps": true,
+        "updatedAt": true,
+        "createdAt": true,
+        "underscored": false
+        },
+        "logging": true
+    }
+}
